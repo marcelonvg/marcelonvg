@@ -16,10 +16,8 @@ empresa: Portonave S/A - Terminais Portuários
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelonvg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
- <div align="center">
-## 🚀💻 Technologies & Tools 
-</div>
- 
+## 
+
 <div align="center"><br>
   <img align="center" alt="Celo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Celo-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -35,6 +33,8 @@ empresa: Portonave S/A - Terminais Portuários
   <img align="center" alt="Celo-Boot"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Celo-Angular"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div>
+ 
+ ## 
  
   ![Snake animation](https://github.com/marcelonvg/marcelonvg/blob/output/github-contribution-grid-snake.svg)
  
