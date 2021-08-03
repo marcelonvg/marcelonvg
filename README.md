@@ -1,5 +1,4 @@
-
-
+## Hi, welcome! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25px"></a>
 
 ```yaml
 nome: Marcelo de Souza
@@ -16,9 +15,11 @@ empresa: Portonave S/A - Terminais Portuários
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcelonvg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelonvg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
- ##
-
+ 
+ <div align="center">
+## 🚀💻 Technologies & Tools 
+</div>
+ 
 <div align="center"><br>
   <img align="center" alt="Celo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Celo-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
