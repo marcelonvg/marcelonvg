@@ -1,4 +1,4 @@
-## Hi, welcome! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25px"></a>
+## Olá!
 
 ```yaml
 nome: Marcelo de Souza
